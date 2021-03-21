@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cálculo IMC</string>
+    <string name="title_imc">IMC</string>
+    <string name="insert_peso">Insira seu peso em KG</string>
+</resources>
